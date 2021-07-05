@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 22
+<<<<<<< HEAD
   productGUID: 4013726c6b3e74812908194277fb80ce
+=======
+  productGUID: 5b6a906a98ae6409c947ffc99841f293
+>>>>>>> fc06051db5b5c3a55bacde114794f3c8c03cecb2
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -141,12 +145,25 @@ PlayerSettings:
   useHDRDisplay: 0
   D3DHDRBitDepth: 0
   m_ColorGamuts: 00000000
+<<<<<<< HEAD
   targetPixelDensity: 0
   resolutionScalingMode: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier: {}
   buildNumber: {}
+=======
+  targetPixelDensity: 30
+  resolutionScalingMode: 0
+  androidSupportedAspectRatio: 1
+  androidMaxAspectRatio: 2.1
+  applicationIdentifier:
+    Standalone: com.DefaultCompany.unityui
+  buildNumber:
+    Standalone: 0
+    iPhone: 0
+    tvOS: 0
+>>>>>>> fc06051db5b5c3a55bacde114794f3c8c03cecb2
   overrideDefaultApplicationIdentifier: 0
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 19
@@ -164,10 +181,17 @@ PlayerSettings:
   StripUnusedMeshComponents: 0
   VertexChannelCompressionMask: 4054
   iPhoneSdkVersion: 988
+<<<<<<< HEAD
   iOSTargetOSVersionString: 
   tvOSSdkVersion: 0
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 
+=======
+  iOSTargetOSVersionString: 11.0
+  tvOSSdkVersion: 0
+  tvOSRequireExtendedGameController: 0
+  tvOSTargetOSVersionString: 11.0
+>>>>>>> fc06051db5b5c3a55bacde114794f3c8c03cecb2
   uIPrerenderedIcon: 0
   uIRequiresPersistentWiFi: 0
   uIRequiresFullScreen: 1
@@ -459,7 +483,11 @@ PlayerSettings:
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
   playerPrefsMaxSize: 32768
+<<<<<<< HEAD
   ps4Passcode: ViFmrBbTadqCsV2fmmav8Ak3rKQgoZQ5
+=======
+  ps4Passcode: nzqTjjMS11gOiXhJBiYm75Wgc6ALKSkp
+>>>>>>> fc06051db5b5c3a55bacde114794f3c8c03cecb2
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
