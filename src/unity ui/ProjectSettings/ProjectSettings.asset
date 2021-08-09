@@ -4,11 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 22
-<<<<<<< HEAD
-  productGUID: 4013726c6b3e74812908194277fb80ce
-=======
-  productGUID: 5b6a906a98ae6409c947ffc99841f293
->>>>>>> fc06051db5b5c3a55bacde114794f3c8c03cecb2
+  productGUID: 820ece0e271b97a4bbdf519efefc51c4
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -125,6 +121,7 @@ PlayerSettings:
   vulkanEnableSetSRGBWrite: 0
   vulkanEnablePreTransform: 0
   vulkanEnableLateAcquireNextImage: 0
+  vulkanEnableCommandBufferRecycling: 1
   m_SupportedAspectRatios:
     4:3: 1
     5:4: 1
@@ -145,25 +142,12 @@ PlayerSettings:
   useHDRDisplay: 0
   D3DHDRBitDepth: 0
   m_ColorGamuts: 00000000
-<<<<<<< HEAD
   targetPixelDensity: 0
   resolutionScalingMode: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier: {}
   buildNumber: {}
-=======
-  targetPixelDensity: 30
-  resolutionScalingMode: 0
-  androidSupportedAspectRatio: 1
-  androidMaxAspectRatio: 2.1
-  applicationIdentifier:
-    Standalone: com.DefaultCompany.unityui
-  buildNumber:
-    Standalone: 0
-    iPhone: 0
-    tvOS: 0
->>>>>>> fc06051db5b5c3a55bacde114794f3c8c03cecb2
   overrideDefaultApplicationIdentifier: 0
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 19
@@ -181,17 +165,10 @@ PlayerSettings:
   StripUnusedMeshComponents: 0
   VertexChannelCompressionMask: 4054
   iPhoneSdkVersion: 988
-<<<<<<< HEAD
   iOSTargetOSVersionString: 
   tvOSSdkVersion: 0
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 
-=======
-  iOSTargetOSVersionString: 11.0
-  tvOSSdkVersion: 0
-  tvOSRequireExtendedGameController: 0
-  tvOSTargetOSVersionString: 11.0
->>>>>>> fc06051db5b5c3a55bacde114794f3c8c03cecb2
   uIPrerenderedIcon: 0
   uIRequiresPersistentWiFi: 0
   uIRequiresFullScreen: 1
@@ -312,6 +289,7 @@ PlayerSettings:
   switchScreenResolutionBehavior: 2
   switchUseCPUProfiler: 0
   switchUseGOLDLinker: 0
+  switchLTOSetting: 0
   switchApplicationID: 0x01004b9000490000
   switchNSODependencies: 
   switchTitleNames_0: 
@@ -483,11 +461,7 @@ PlayerSettings:
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
   playerPrefsMaxSize: 32768
-<<<<<<< HEAD
-  ps4Passcode: ViFmrBbTadqCsV2fmmav8Ak3rKQgoZQ5
-=======
-  ps4Passcode: nzqTjjMS11gOiXhJBiYm75Wgc6ALKSkp
->>>>>>> fc06051db5b5c3a55bacde114794f3c8c03cecb2
+  ps4Passcode: frAQBc8Wsa1xVPfvJcrgRYwTiizs2trQ
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -517,6 +491,7 @@ PlayerSettings:
   ps4videoRecordingFeaturesUsed: 0
   ps4contentSearchFeaturesUsed: 0
   ps4CompatibilityPS5: 0
+  ps4AllowPS5Detection: 0
   ps4GPU800MHz: 1
   ps4attribEyeToEyeDistanceSettingVR: 0
   ps4IncludedModules: []
@@ -551,7 +526,6 @@ PlayerSettings:
   suppressCommonWarnings: 1
   allowUnsafeCode: 0
   useDeterministicCompilation: 1
-  useReferenceAssemblies: 1
   enableRoslynAnalyzers: 1
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 1

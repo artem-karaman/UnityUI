@@ -41,12 +41,3 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-<<<<<<< HEAD
-=======
-  - name: new
-    uniqueID: 1036421625
-    locked: 0
-  - name: another oner
-    uniqueID: 2978911471
-    locked: 0
->>>>>>> fc06051db5b5c3a55bacde114794f3c8c03cecb2
