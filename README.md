@@ -14,7 +14,7 @@
 * [Event system](https://github.com/namarakM/UnityUI/wiki/EventSystem#event-system)
 * [Sprite and textures](https://github.com/namarakM/UnityUI/wiki/SpriteAndTextures#sprite-and-textures)
 
-билд с примерами
+web gl билд с примерами
 https://artem-karaman.github.io/UnityUI/
 
 # Repo Statistics
