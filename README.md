@@ -14,7 +14,7 @@
 * [Event system](https://github.com/namarakM/UnityUI/wiki/EventSystem#event-system)
 * [Sprite and textures](https://github.com/namarakM/UnityUI/wiki/SpriteAndTextures#sprite-and-textures)
 
-web gl билд с примерами
+WebGL билд с примерами
 https://artem-karaman.github.io/UnityUI/
 
 include in project:
