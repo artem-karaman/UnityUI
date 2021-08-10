@@ -17,4 +17,6 @@
 билд с примерами
 https://artem-karaman.github.io/UnityUI/
 
+# Repo Statistics
+[Hits of code overview](https://hitsofcode.com/view/github/namarakM/UnityUI/)</br>
 [What does it mean - hits-of-code?](https://www.yegor256.com/2014/11/14/hits-of-code.html)
