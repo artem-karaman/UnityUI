@@ -17,6 +17,9 @@
 web gl билд с примерами
 https://artem-karaman.github.io/UnityUI/
 
+include in project:
+[Learning_Unity_project](https://github.com/users/artem-karaman/projects/1)
+
 # Repo Statistics
 [Hits of code overview](https://hitsofcode.com/view/github/namarakM/UnityUI/)</br>
 [What does it mean - hits-of-code?](https://www.yegor256.com/2014/11/14/hits-of-code.html)
