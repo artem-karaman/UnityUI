@@ -15,17 +15,14 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-          lfs: true
-      - uses: actions/cache@v2
-        with:
-          path: Library
-          key: Library-
-          restore-keys: Library-
+          lfs: false
+          path: /home/runner/work/UnityUI/UnityUI/src/unity\ ui/
       - uses: game-ci/unity-builder@v2
         env:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
-          targetPlatform: WebGL
+          targetPlatform: WebGL 
+          projectPath: /home/runner/work/UnityUI/UnityUI/src/unity\ ui/
       - uses: actions/upload-artifact@v2
         with:
           name: Build-WebGL
