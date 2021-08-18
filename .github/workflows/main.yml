@@ -16,11 +16,13 @@ jobs:
         with:
           fetch-depth: 0
           lfs: true
+          path: src/'unity ui'
       - uses: game-ci/unity-builder@v2
         env:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
-          targetPlatform: WebGL
+          targetPlatform: WebGL 
+          path: src/'unity ui'
       - uses: actions/upload-artifact@v2
         with:
           name: Build-WebGL
