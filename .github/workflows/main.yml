@@ -24,10 +24,10 @@ jobs:
       - uses: actions/upload-artifact@v2
         with:
           name: Build-WebGL
-          path: build/WebGL
+          path: build
           
       - uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh_pages
-          FOLDER: build/WebGL
+          FOLDER: build
