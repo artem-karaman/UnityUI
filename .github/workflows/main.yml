@@ -23,11 +23,11 @@ jobs:
           targetPlatform: WebGL 
       - uses: actions/upload-artifact@v2
         with:
-          name: Build
-          path: Build
+          name: Build-WebGL
+          path: build/WebGL
           
       - uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh_pages
-          FOLDER: Build
+          FOLDER: build/WebGL
