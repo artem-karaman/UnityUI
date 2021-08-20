@@ -1,4 +1,4 @@
-[![Hits-of-Code](https://hitsofcode.com/github/artem-karaman/UnityUI)](https://hitsofcode.com/github/artem-karaman/UnityUI) ![example branch parameter](https://github.com/artem-karaman/UnityUI/actions/workflows/main.yml/badge.svg?branch=master)  
+[![Hits-of-Code](https://hitsofcode.com/github/artem-karaman/UnityUI)](https://hitsofcode.com/github/artem-karaman/UnityUI) ![example branch parameter](https://github.com/artem-karaman/UnityUI/actions/workflows/main.yml/badge.svg?branch=master)  ![repo-license](https://img.shields.io/github/license/artem-karaman/UnityUI.svg)
 
 # UnityUI
 * [Canvas](https://github.com/namarakM/UnityUI/wiki/Canvas#canvas)
