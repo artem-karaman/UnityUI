@@ -1,4 +1,4 @@
-[![Hits-of-Code](https://hitsofcode.com/github/artem-karaman/UnityUI)](https://hitsofcode.com/github/artem-karaman/UnityUI) ![example branch parameter](https://github.com/artem-karaman/UnityUI/actions/workflows/main.yml/badge.svg?branch=master)
+[![Hits-of-Code](https://hitsofcode.com/github/artem-karaman/UnityUI)](https://hitsofcode.com/github/artem-karaman/UnityUI) ![example branch parameter](https://github.com/artem-karaman/UnityUI/actions/workflows/main.yml/badge.svg?branch=master)  
 
 # UnityUI
 * [Canvas](https://github.com/namarakM/UnityUI/wiki/Canvas#canvas)
@@ -15,7 +15,8 @@
 * [Sprite and textures](https://github.com/namarakM/UnityUI/wiki/SpriteAndTextures#sprite-and-textures)
 
 WebGL билд с примерами
-https://artem-karaman.github.io/UnityUI/
+https://artem-karaman.github.io/UnityUI/ </br>
+![code language](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 include in project:
 [Learning_Unity_project](https://github.com/users/artem-karaman/projects/1)
