@@ -16,7 +16,9 @@
 
 WebGL билд с примерами
 https://artem-karaman.github.io/UnityUI/ </br>
-![code language](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) - game engine </br>
+![code language](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) - code language </br>
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) - task trecker </br>
 
 include in project:
 [Learning_Unity_project](https://github.com/users/artem-karaman/projects/1)
