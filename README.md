@@ -13,6 +13,7 @@
      * [CanvasUpdateRegistry - что такое, как работает](#canvasupdateregistry---что-такое-как-работает)
 * [Event system](https://github.com/namarakM/UnityUI/wiki/EventSystem#event-system)
 * [Sprite and textures](https://github.com/namarakM/UnityUI/wiki/SpriteAndTextures#sprite-and-textures)
+* [Layouts](https://github.com/artem-karaman/UnityUI/wiki/Layouts)
 
 WebGL билд с примерами
 https://artem-karaman.github.io/UnityUI/ </br>
