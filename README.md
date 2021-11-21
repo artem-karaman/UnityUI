@@ -1,6 +1,9 @@
 [![Hits-of-Code](https://hitsofcode.com/github/artem-karaman/UnityUI)](https://hitsofcode.com/github/artem-karaman/UnityUI) ![example branch parameter](https://github.com/artem-karaman/UnityUI/actions/workflows/main.yml/badge.svg?branch=master)  ![repo-license](https://img.shields.io/github/license/artem-karaman/UnityUI.svg)
 
 # UnityUI
+Welcome to the UnityUI wiki!
+
+# Unity UI
 * [Canvas](https://github.com/namarakM/UnityUI/wiki/Canvas#canvas)
     * [Canvas-Render_Mode](#render-mode)
     * [Canvas-Pixel Perfect](#pixel-perfect---%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA-canvas)
@@ -13,7 +16,9 @@
      * [CanvasUpdateRegistry - что такое, как работает](#canvasupdateregistry---что-такое-как-работает)
 * [Event system](https://github.com/namarakM/UnityUI/wiki/EventSystem#event-system)
 * [Sprite and textures](https://github.com/namarakM/UnityUI/wiki/SpriteAndTextures#sprite-and-textures)
-* [Layouts](https://github.com/artem-karaman/UnityUI/wiki/Layouts)
+     * [Sprites](#sprites)
+     * [Textures](#textures)
+* [Optimizing Unity UI](https://github.com/artem-karaman/UnityUI/wiki/Optimizing-Unity-UI)
 
 WebGL билд с примерами
 https://artem-karaman.github.io/UnityUI/ </br>
