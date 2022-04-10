@@ -61,3 +61,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# TextMesh Pro files
+[Aa]ssets/TextMesh*Pro/
+[Aa]ssets/TextMesh*Pro*
+
